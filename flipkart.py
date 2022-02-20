@@ -26,7 +26,7 @@ def extract_price():
 
     final_val = int(actualvalList.replace(',',''))
    
-    if(final_val <= 5990):
+    if(final_val < 5990):
         server = SMTP(SMTP_SERVER,PORT)
         server.starttls()
         server.login(EMAIL_ID,PASSWORD)
