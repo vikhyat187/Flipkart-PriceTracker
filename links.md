@@ -7,3 +7,5 @@
 [parsing commas ](https://stackoverflow.com/questions/2953746/python-parse-comma-separated-number-into-int)
 
 [send mail to multiple people](https://stackoverflow.com/questions/8856117/how-to-send-email-to-multiple-recipients-using-python-smtplib)
+
+[cron for every 6 hours](https://stackoverflow.com/questions/11562804/running-a-cron-job-on-linux-every-six-hours)
